@@ -11,6 +11,7 @@ namespace Example01
         private static void Main(string[] args)
         {
             Console.WriteLine("Test GitHub");
+            Console.WriteLine("Test GitHub2");
         }
     }
 }
